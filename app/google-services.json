@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "566688222423",
+    "firebase_url": "https://globalprogrammingapp-a5ae7.firebaseio.com",
+    "project_id": "globalprogrammingapp-a5ae7",
+    "storage_bucket": "globalprogrammingapp-a5ae7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566688222423:android:94660fac13f88cac",
+        "android_client_info": {
+          "package_name": "com.example.abdo.globalprogramming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566688222423-cofdj582utnbi2h55in60l933r850692.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abdo.globalprogramming",
+            "certificate_hash": "9add41f8e75a0556904a194cf4c151c7ae90a313"
+          }
+        },
+        {
+          "client_id": "566688222423-jjhuep8kdt6oi1qfkdi81qaqp2ikng3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByitGgjXAm9H_GPJdxzC6xtorKkSJxOWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566688222423-jjhuep8kdt6oi1qfkdi81qaqp2ikng3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
